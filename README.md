@@ -1,16 +1,13 @@
-## Hi there 👋
+I am a Btech final year student who loves problem solving and I do leetcode problems in regular basis, currently I am focusing on AI/ML.
 
-<!--
-**LKoshik/LKoshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I'm based in Chittoor, Andhra Pradesh, India.
+✉️  You can contact me at koshik.work@gmail.com
+🧠  I'm learning Artificial Intelligence and Machine Learning
+🤝  I'm open to collaborating on Projects
+⚡  Arigatou Gozai masu😊
+Skills
+Socials
+Badges
+My GitHub Stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
