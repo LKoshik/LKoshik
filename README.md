@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 B.Tech CSE student
 ------------------
 
-I am a Btech final year student who loves problem solving and I do leetcode problems in regular basis, currently I am focusing on AI/ML.
+I am a Btech final year student who loves problem solving and I do leetcode problems in regular basis, currently I am focusing on MERN stack.
 
 * 🌍  I'm based in Chittoor, Andhra Pradesh, India.
 * ✉️  You can contact me at [koshik.work@gmail.com](mailto:koshik.work@gmail.com)
-* 🧠  I'm currently learning Artificial Intelligence and Machine Learning
+* 🧠  I'm currently learning Fullstack development
 * 👥  I'm looking to collaborate on Projects
 * 💬  Arigatou Gozai masu😊
 
